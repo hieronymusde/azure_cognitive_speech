@@ -414,6 +414,40 @@ VOICES_LIST = {
             "newscast"
         ]
     },
+    "Jane": {
+        "ShortName": "en-US-JaneNeural",
+        "Gender": "Female",
+        "Locale": "en-US",
+        "StyleList": [
+            "angry",
+            "cheerful",
+            "excited",
+            "friendly",
+            "hopeful",
+            "sad",
+            "shouting",
+            "terrified",
+            "unfriendly",
+            "whispering"
+        ]
+    },
+    "Tony": {
+        "ShortName": "en-US-TonyNeural",
+        "Gender": "Female",
+        "Locale": "en-US",
+        "StyleList": [
+            "angry",
+            "cheerful",
+            "excited",
+            "friendly",
+            "hopeful",
+            "sad",
+            "shouting",
+            "terrified",
+            "unfriendly",
+            "whispering"
+        ]
+    },
     "Jenny Multilingual": {
         "ShortName": "en-US-JennyMultilingualNeural",
         "Gender": "Female",
